@@ -111,6 +111,7 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    "gunicorn",
 )
 
 # A sample logging configuration. The only tangible logging
